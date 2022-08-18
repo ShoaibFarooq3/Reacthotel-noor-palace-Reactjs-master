@@ -1,0 +1,9 @@
+.itemArea {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.itemArea img {
+  max-width: 500px;
+  max-height: 500px;
+}

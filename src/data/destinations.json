@@ -1,0 +1,18 @@
+[{
+   "id": 1,
+  "name": "The Kalam Bazaar (The Downtown)",
+  "description": "The Kalam Bazaar is the main marketplace and commercial centre of the kalam valley. Despite being small, Kalam Bazaar has hotels, restaurants, cafes, medical stores, and a good number of general stores. This Bazaar serves as a high street or Downton for locals and tourists in Kalam and rounding areas.",
+  "spotImage": "kalam-valley.jpg"
+},
+{
+   "id": 2,
+  "name": "Ushu",
+  "description": "Ushu is on approximately 21km (13 miles) of distance Kalam which is around 60 to 80 munites travel drive. The journey from Kalam to Ushu is on the same road and direction towards Matiltan. Onwards from Matiltan this is a 7.5km (4.5 miles) of distance via Mahodand Lake Rd alongside the beautiful Ushu River. The total round trip from Kalam to Ushu is approximately 42km (26 miles) which is a bit more challenging hiking trail of 4 hours and 30 minutes. Only professional trekkers with appropriate hiking gear would normally walk this route, however, everyone else can travel this distance easily by car enjoying the beautiful suburbs of Kalam.",
+  "spotImage": "ushu-forest.jpg"
+},
+{
+   "id": 3,
+  "name": "Mahodand Lake",
+  "description": "Perched amidst the glacial alpine hills of the upper gorge of Kalam valley, the emerald green Mahodand Lake is being swarmed by tourists and nature enthusiasts from across the country soon after its access track was opened for transportation this season. Known for its freezing water and abundance of trout fish, the lake is located in the Ushu Matiltan valley around 40 kilometres above Kalam. Apart from a paradise-like vista of the 2-km long lake which snakes around the valley, tourists can feast their eyes on hundreds of big and small waterfalls, lush sceneries, meadows, clumps of pine and cedar trees, and snow-capped peaks in the distance.",
+  "spotImage": "mahodand-valley.jpg"
+} ]
